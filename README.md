@@ -1,1 +1,1 @@
-# DeteccionT-mulosFunerarios-ProyectoTesisUEC
+# Detección de Túmulos Funerarios en imágenes satelitales
